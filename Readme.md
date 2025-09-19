@@ -29,7 +29,7 @@ Dengan repo ini, kamu bisa langsung menambang Yenten dari Termux, tanpa ribet!
 
 2. Clone repo ini:
 
-git clone git@github.com:viantmocy/yentenku.git  
+git clone https://github.com/viantmocy/yentenku.git  
 cd yentenku
 
 
